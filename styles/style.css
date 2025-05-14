@@ -139,3 +139,29 @@ letter-spacing: 1.8%;
       text-decoration: none;
      margin-left: 90px;
 }
+.last-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.last-hedder{
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.place{
+    font-size: 3rem;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+}
+.last-part{
+font-size: 1rem;
+font-weight: 300;
+
+}
+.btn-last{
+    background: rgb(224, 44, 109);
+    width: 100px;
+    height: 40px;
+    color: white;
+}
