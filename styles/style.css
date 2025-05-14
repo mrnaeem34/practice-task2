@@ -165,3 +165,12 @@ font-weight: 300;
     height: 40px;
     color: white;
 }
+footer{
+   background-color: rgb(5, 0, 40);
+   color: white;
+   text-align: center;
+   padding-top: 30px;
+}
+@media screen and (max-width: 576px) {
+    
+}
